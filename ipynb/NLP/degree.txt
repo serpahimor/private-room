@@ -1,0 +1,392 @@
+百分之百 ,6
+倍加 ,6
+备至 ,6
+不得了 ,6
+不堪 ,6
+不可开交 ,6
+不亦乐乎 ,6
+不折不扣 ,6
+彻头彻尾 ,6
+充分 ,6
+到头 ,6
+地地道道 ,6
+非常 ,6
+极 ,6
+极度 ,6
+极端 ,6
+极其 ,6
+极为 ,6
+截然 ,6
+尽 ,6
+惊人地 ,6
+绝 ,6
+绝顶 ,6
+绝对 ,6
+绝对化 ,6
+刻骨 ,6
+酷 ,6
+满 ,6
+满贯 ,6
+满心 ,6
+莫大 ,6
+奇 ,6
+入骨 ,6
+甚为 ,6
+十二分 ,6
+十分 ,6
+十足 ,6
+死 ,6
+滔天 ,6
+痛 ,6
+透 ,6
+完全 ,6
+完完全全 ,6
+万 ,6
+万般 ,6
+万分 ,6
+万万 ,6
+无比 ,6
+无度 ,6
+无可估量 ,6
+无以复加 ,6
+无以伦比 ,6
+要命 ,6
+要死 ,6
+已极 ,6
+已甚 ,6
+异常 ,6
+逾常 ,6
+贼 ,6
+之极 ,6
+之至 ,6
+至极 ,6
+卓绝 ,6
+最为 ,6
+佼佼 ,6
+郅 ,6
+綦 ,6
+齁 ,6
+最 ,6
+不过 ,5
+不少 ,5
+不胜 ,5
+惨 ,5
+沉 ,5
+沉沉 ,5
+出奇 ,5
+大为 ,5
+多 ,5
+多多 ,5
+多加 ,5
+多么 ,5
+分外 ,5
+格外 ,5
+够瞧的 ,5
+够戗 ,5
+好 ,5
+好不 ,5
+何等 ,5
+很 ,5
+很是 ,5
+坏 ,5
+可 ,5
+老 ,5
+老大 ,5
+良 ,5
+颇 ,5
+颇为 ,5
+甚 ,5
+实在 ,5
+太 ,5
+太甚 ,5
+特 ,5
+特别 ,5
+尤 ,5
+尤其 ,5
+尤为 ,5
+尤以 ,5
+远 ,5
+着实 ,5
+曷 ,5
+碜 ,5
+大不了 ,4
+多 ,4
+更 ,4
+更加 ,4
+更进一步 ,4
+更为 ,4
+还 ,4
+还要 ,4
+较 ,4
+较比 ,4
+较为 ,4
+进一步 ,4
+那般 ,4
+那么 ,4
+那样 ,4
+强 ,4
+如斯 ,4
+益 ,4
+益发 ,4
+尤甚 ,4
+逾 ,4
+愈 ,4
+愈 ... 愈 ,4
+愈发 ,4
+愈加 ,4
+愈来愈 ,4
+愈益 ,4
+远远 ,4
+越 ... 越 ,4
+越发 ,4
+越加 ,4
+越来越 ,4
+越是 ,4
+这般 ,4
+这样 ,4
+足 ,4
+足足 ,4
+点点滴滴 ,3
+多多少少 ,3
+怪 ,3
+好生 ,3
+还 ,3
+或多或少 ,3
+略 ,3
+略加 ,3
+略略 ,3
+略微 ,3
+略为 ,3
+蛮 ,3
+稍 ,3
+稍稍 ,3
+稍微 ,3
+稍为 ,3
+稍许 ,3
+挺 ,3
+未免 ,3
+相当 ,3
+些 ,3
+些微 ,3
+些小 ,3
+一点 ,3
+一点儿 ,3
+一些 ,3
+有点 ,3
+有点儿 ,3
+有些 ,3
+半点 ,2
+不大 ,2
+不丁点儿 ,2
+不甚 ,2
+不怎么 ,2
+聊 ,2
+没怎么 ,2
+轻度 ,2
+弱 ,2
+丝毫 ,2
+微 ,2
+相对 ,2
+不为过 ,5.5
+超 ,5.5
+超额 ,5.5
+超外差 ,5.5
+超微结构 ,5.5
+超物质 ,5.5
+出头 ,5.5
+多 ,5.5
+浮 ,5.5
+过 ,5.5
+过度 ,5.5
+过分 ,5.5
+过火 ,5.5
+过劲 ,5.5
+过了头 ,5.5
+过猛 ,5.5
+过热 ,5.5
+过甚 ,5.5
+过头 ,5.5
+过于 ,5.5
+过逾 ,5.5
+何止 ,5.5
+何啻 ,5.5
+开外 ,5.5
+苦 ,5.5
+老 ,5.5
+偏 ,5.5
+强 ,5.5
+溢 ,5.5
+忒 ,5.5
+100 percent ,6
+absolute ,6
+absolutely ,6
+alarmingly ,6
+amazingly ,6
+as fully as possible ,6
+astonishingly ,6
+awfully ,6
+beyond challenge ,6
+beyond compare ,6
+beyond comparison ,6
+beyond measure ,6
+bitterly ,6
+by all means ,6
+completely ,6
+deep-rooted ,6
+deep-seated ,6
+deeply ,6
+definitely ,6
+disastrously ,6
+downright ,6
+entirely ,6
+exceedingly ,6
+excessively ,6
+extreme ,6
+extremely ,6
+fully ,6
+greatest ,6
+greatly ,6
+heinous ,6
+hundred-percent ,6
+immensely ,6
+immoderate ,6
+in a penetrating way ,6
+in every possible way ,6
+in the extreme ,6
+incomparably ,6
+ingrained ,6
+matchlessly ,6
+monstrous ,6
+most ,6
+of the highest degree ,6
+out-and-out ,6
+outstanding ,6
+outstandingly ,6
+reach the limit ,6
+right-down ,6
+sharply ,6
+sheer ,6
+superb ,6
+terribly ,6
+to death ,6
+to the full ,6
+to the letter ,6
+to the limit ,6
+to the marrow ,6
+to the utmost ,6
+totally ,6
+towering ,6
+unusually ,6
+utmost ,6
+utterly ,6
+very much ,6
+most ,6
+a lot ,5
+awfully ,5
+badly ,5
+better ,5
+by far ,5
+considerably ,5
+deep ,5
+disastrously ,5
+especially ,5
+extraordinarily ,5
+extremely ,5
+greatly ,5
+how ,5
+however ,5
+indeed ,5
+much ,5
+particularly ,5
+really ,5
+terribly ,5
+to a serious degree ,5
+too far ,5
+too much ,5
+unusually ,5
+very ,5
+what a ,5
+all the more ,4
+as much as ,4
+at the worst ,4
+by far ,4
+comparatively ,4
+even more ,4
+further ,4
+further more ,4
+in that way ,4
+increasingly ,4
+like that ,4
+more ,4
+more and more ,4
+more so ,4
+much more ,4
+plus ,4
+relatively ,4
+slightly more ,4
+so ,4
+still more ,4
+such ,4
+the more ... the more ,4
+a bit ,3
+a bit too ,3
+a little ,3
+a little bit ,3
+a little more ,3
+fairly ,3
+more or less ,3
+passably ,3
+pretty ,3
+quite ,3
+rather ,3
+slightly ,3
+some ,3
+somewhat ,3
+to some extent ,3
+a little less ,2
+just ,2
+light ,2
+merely ,2
+not particularly ,2
+not too ,2
+not very ,2
+relative ,2
+slight ,2
+slightest degree of ,2
+slightly ,2
+a little over ,5.5
+above ,5.5
+above measure ,5.5
+above quota ,5.5
+and more ,5.5
+excessive ,5.5
+excessively ,5.5
+exorbitance ,5.5
+extra ,5.5
+far more than ,5.5
+hyperphysical ,5.5
+inflated ,5.5
+inordinate ,5.5
+not too much ,5.5
+odd ,5.5
+outrageousness ,5.5
+over ,5.5
+over- ,5.5
+overdone ,5.5
+overheated ,5.5
+plus ,5.5
+slightly more ,5.5
+super ,5.5
+superheated ,5.5
+superheterodyne ,5.5
+surplus ,5.5
+to a fault ,5.5
+too ,5.5
+too much ,5.5
+ultra ,5.5
+ultrastructural ,5.5
+undue ,5.5
+unduly ,5.5
+ ,5.5
+
+

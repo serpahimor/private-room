@@ -1,0 +1,572 @@
+<msg time='2018-08-18T16:43:10.660+08:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1960:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-CN49QDD' host_addr='fe80::9c:538e:ce45:489b%7'
+ pid='12380' version='1'>
+ <txt>Create Relation ADR_CONTROL
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.072+08:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1960:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-CN49QDD' host_addr='fe80::9c:538e:ce45:489b%7'
+ pid='12380'>
+ <txt>Create Relation ADR_INVALIDATION
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.189+08:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1960:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-CN49QDD' host_addr='fe80::9c:538e:ce45:489b%7'
+ pid='12380'>
+ <txt>Create Relation INC_METER_IMPT_DEF
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.413+08:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1960:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-CN49QDD' host_addr='fe80::9c:538e:ce45:489b%7'
+ pid='12380'>
+ <txt>Create Relation INC_METER_PK_IMPTS
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.537+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.537+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>
+Fatal NI connect error 12170.
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.537+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 12.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 12.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.553+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>  Time: 18-AUG-2018 16:43:11
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.553+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.553+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.553+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    ns main err code: 12535
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.553+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.569+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.569+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    ns secondary err code: 12560
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.569+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    nt main err code: 505
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.569+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.569+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.569+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    nt secondary err code: 60
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.569+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:11.569+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>  Client address: &lt;unknown&gt;
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.817+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.821+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>
+Fatal NI connect error 12170.
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.827+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 12.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 12.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.833+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>  Time: 18-AUG-2018 16:43:32
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.836+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.839+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.841+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    ns main err code: 12535
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.844+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.847+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.850+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    ns secondary err code: 12560
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.852+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    nt main err code: 505
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.855+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.858+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.861+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    nt secondary err code: 60
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.864+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:43:32.866+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12380'>
+ <txt>  Client address: &lt;unknown&gt;
+ </txt>
+</msg>
+<msg time='2018-08-18T16:54:31.203+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2018-08-18T16:54:31.206+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>
+Fatal NI connect error 12504, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=C:\Users\d\Anaconda3\python.exe)(HOST=DESKTOP-CN49QDD)(USER=d)))(ADDRESS=(PROTOCOL=TCP)(HOST=116.62.196.255)(PORT=1521)))
+ </txt>
+</msg>
+<msg time='2018-08-18T16:54:31.210+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 12.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 12.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2018-08-18T16:54:31.215+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>  Time: 18-AUG-2018 16:54:31
+ </txt>
+</msg>
+<msg time='2018-08-18T16:54:31.218+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2018-08-18T16:54:31.220+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2018-08-18T16:54:31.223+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    ns main err code: 12564
+ </txt>
+</msg>
+<msg time='2018-08-18T16:54:31.226+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2018-08-18T16:54:31.231+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>TNS-12564: Message 12564 not found; No message file for product=NETWORK, facility=TNS
+ </txt>
+</msg>
+<msg time='2018-08-18T16:54:31.234+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:54:31.237+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    nt main err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:54:31.240+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    nt secondary err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:54:31.242+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:55:36.744+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2018-08-18T16:55:36.745+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=orcl11g)(CID=(PROGRAM=C:\Users\d\Anaconda3\python.exe)(HOST=DESKTOP-CN49QDD)(USER=d)))(ADDRESS=(PROTOCOL=TCP)(HOST=116.62.196.255)(PORT=1521)))
+ </txt>
+</msg>
+<msg time='2018-08-18T16:55:36.746+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 12.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 12.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2018-08-18T16:55:36.748+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>  Time: 18-AUG-2018 16:55:36
+ </txt>
+</msg>
+<msg time='2018-08-18T16:55:36.749+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2018-08-18T16:55:36.751+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2018-08-18T16:55:36.753+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    ns main err code: 12564
+ </txt>
+</msg>
+<msg time='2018-08-18T16:55:36.755+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2018-08-18T16:55:36.756+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>TNS-12564: Message 12564 not found; No message file for product=NETWORK, facility=TNS
+ </txt>
+</msg>
+<msg time='2018-08-18T16:55:36.758+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:55:36.760+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    nt main err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:55:36.761+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    nt secondary err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:55:36.761+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:05.708+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:05.710+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=orcl11g.test)(CID=(PROGRAM=C:\Users\d\Anaconda3\python.exe)(HOST=DESKTOP-CN49QDD)(USER=d)))(ADDRESS=(PROTOCOL=TCP)(HOST=116.62.196.255)(PORT=1521)))
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:05.712+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 12.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 12.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:05.715+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>  Time: 18-AUG-2018 16:56:05
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:05.718+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:05.720+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:05.722+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    ns main err code: 12564
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:05.727+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:05.730+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>TNS-12564: Message 12564 not found; No message file for product=NETWORK, facility=TNS
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:05.732+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:05.734+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    nt main err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:05.738+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    nt secondary err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:05.740+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:08.070+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:08.071+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=orcl11g)(CID=(PROGRAM=C:\Users\d\Anaconda3\python.exe)(HOST=DESKTOP-CN49QDD)(USER=d)))(ADDRESS=(PROTOCOL=TCP)(HOST=116.62.196.255)(PORT=1521)))
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:08.073+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 12.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 12.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:08.074+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>  Time: 18-AUG-2018 16:56:08
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:08.076+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:08.077+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:08.079+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    ns main err code: 12564
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:08.080+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:08.082+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>TNS-12564: Message 12564 not found; No message file for product=NETWORK, facility=TNS
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:08.083+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:08.085+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    nt main err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:08.085+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    nt secondary err code: 0
+ </txt>
+</msg>
+<msg time='2018-08-18T16:56:08.088+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-CN49QDD'
+ host_addr='fe80::9c:538e:ce45:489b%7' pid='12140'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
