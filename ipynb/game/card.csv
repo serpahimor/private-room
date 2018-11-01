@@ -1,0 +1,11 @@
+cid,name,kind,cost,upgrade,effect,describe,upgrade_effect,upgrade_describe,upgrade_cost,upgrade_name
+0,attack,attack,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,3,attack+1
+1,add_str,skill,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,3,add_str+1
+2,add_shield,ability,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,2,add_shield+1
+3,attack,tactics,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,2,attack+1
+4,add_str,attack,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,2,add_str+1
+5,add_shield,skill,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,2,add_shield+1
+6,attack,ability,3,1,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,2,attack+1
+7,add_str,tactics,3,1,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,2,add_str+1
+8,add_shield,attack,3,1,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,2,add_shield+1
+9,attack,skill,3,1,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,2,attack+1

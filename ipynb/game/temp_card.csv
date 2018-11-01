@@ -1,0 +1,11 @@
+,cid,kind,cost,upgrade,effect,describe,upgrade_effect,upgrade_describe,upgrade_cost
+0,0,attack,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,
+1,1,skill,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,
+2,2,ability,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,
+3,3,tactics,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,
+4,4,attack,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,
+5,5,skill,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,
+6,6,ability,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,
+7,7,tactics,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,
+8,8,attack,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,
+9,9,skill,3,0,"{'att':2,'shld':4,}",,"{'att':1,'shld':2,}",,
